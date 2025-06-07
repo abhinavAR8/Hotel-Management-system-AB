@@ -1,1 +1,1 @@
-# MAMAA_project
+# Hotel management system_project
